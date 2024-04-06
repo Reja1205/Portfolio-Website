@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+p {
+    font-size: 2rem;
+    border: 2px solid red;
+    width:50%;
+}
+.section {
+    width: 50%;
+    border: solid green;
+}
+.section h1 {
+    width: 75%;
+    border: 2px solid orange;
+}
+body {
+    height: 100vh;
+    background-color: bisque;
+}

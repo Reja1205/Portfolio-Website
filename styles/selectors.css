@@ -1,0 +1,28 @@
+* {
+    font-family: monospace;
+}
+body {
+    font-size: 18px;
+}
+
+h1 {
+    color: orange;
+}
+.section {
+    border: 1px solid red;
+    margin-left: 40px;
+    margin-top: 5px;
+    padding-left: 20px;
+}
+#section3-title {
+    color: chocolate;
+    margin: 10px 5px 0px 10px;
+ 
+    font-size: 80px;
+}
+section p {
+    /* font-family: sans-serif; */
+    color: crimson;
+   
+
+}
